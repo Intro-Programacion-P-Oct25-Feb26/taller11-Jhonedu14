@@ -1,0 +1,5 @@
+La parte mas difícil del ejercicio fue organizar correctamente los datos que 
+se solicitan en cada procedimiento,al principio me confundi ya que  información 
+debia pedirse en el método principal y cuál dentro de los procedimientos y yo 
+lo ponia en otro metodo en cual me hacia una diferencia y hacia que se saturen 
+los datos. 

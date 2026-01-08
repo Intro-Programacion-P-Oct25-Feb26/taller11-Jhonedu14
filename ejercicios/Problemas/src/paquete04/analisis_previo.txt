@@ -1,0 +1,7 @@
+El programa necesita los datos personales del cliente para generar reportes 
+personalizados dependiendo de la opcion del usuario, en este caso solo existen
+dos opcion si el usuario ingresa planilla o predio correcto  si ingresa otra 
+opcion sale que a sido que es invalida eliga 1 o 2, de solicitaran los datos 
+economicos del usuario y se hara el calculo correspondiente, el resultado a 
+mostrar en pantalla es el valor que debe pagar el cliente depende de la opcion.
+ 
