@@ -1,0 +1,5 @@
+Con este ejercicio aprendi a trabajar correctamente con arreglos y matrices
+al mismo tiempo y a relacionar sus posiciones para procesar informacion y no 
+confundirme, tambien comprendi mejor la diferencia entre funciones que retornan 
+datos y procedimientos que solo presentan resultados, antes no tenía claro 
+como organizar de un arreglo y luego retonar a una funcion y con esto esta claro

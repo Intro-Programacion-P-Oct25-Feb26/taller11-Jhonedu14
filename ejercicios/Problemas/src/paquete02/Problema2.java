@@ -69,11 +69,8 @@ public class Problema2 {
 
         String reporte = "Reporte Anual de consumo de viviendas\n";
         for (int i = 0; i < viviendas.length; i++) {
-            reporte = String.format(
-            "%sVivienda %s: %.2f \n",
-            reporte,
-            viviendas[i],
-            totales[i]);
+            reporte = String.format("%sVivienda %s: %.2f \n",reporte,
+            viviendas[i], totales[i]);
         }
         System.out.println(reporte);
     }

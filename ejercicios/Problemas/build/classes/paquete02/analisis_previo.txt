@@ -1,0 +1,8 @@
+El programa necesita registrar datos de diez viviendas y su consumo electrico 
+mensual,se deben ingresar por teclado los nombres o identificadores de cada
+vivienda, tambien se deben registrar los valores de consumo electricos que son 
+correspondientes, a cada mes del año para cada vivienda, para esto se utilizaron
+arreglos unidimensionales, junto con estructuras repetitivas en cual yo utilize 
+3 funciones y 2 con metodos void en el cual son procedimientos 
+
+
