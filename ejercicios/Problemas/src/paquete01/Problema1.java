@@ -15,12 +15,24 @@ public class Problema1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int[][] informacion = {{1, 2, 3}, {10, 20, 30}, {100, 200, 300}};
-        imprimirDatos(informacion);
+
+        int[][] informacion = {
+            {1, 2, 3},
+            {10, 20, 30},
+            {100, 200, 300}
+        };
+        mostrarPares(informacion);
     }
+    public static void mostrarPares(int[][] arreglo) {
 
-    public static void imprimirDatos(int[][] datos) {
-
+        String cadena = "";
+        for (int i = 0; i < arreglo.length; i++) {
+            for (int j = 0; j < arreglo[i].length; j++) {
+                if (arreglo[i][j] % 2 == 0) {
+                    cadena = cadena + arreglo[i][j] + " ";
+                }
+            }
+        }
+        System.out.println("Numeros pares: \n" + cadena);
     }
-
 }
