@@ -67,10 +67,14 @@ public class Problema2 {
 
     public static void mostrarReporte(String[] viviendas, double[] totales) {
 
-        String reporte = "Reporte Anual del consumo de viviendas\n";
+        String reporte = "Reporte Anual de consumo de viviendas\n";
         for (int i = 0; i < viviendas.length; i++) {
-            reporte = reporte + viviendas[i] + ": " + totales[i];
+            reporte = String.format(
+            "%sVivienda %s: %.2f \n",
+            reporte,
+            viviendas[i],
+            totales[i]);
         }
-        System.out.printf(reporte);
+        System.out.println(reporte);
     }
 }
