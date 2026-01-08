@@ -1,0 +1,5 @@
+La parte mas importante que yo creo de la solucion fue al momento de colocar 
+las opciones que permitira al usuario seleccionar el procedimiento correcto 
+segun la opcionla opcion ingresada por el usuario esto nos da la validacion
+segura que se ejecute el calculo correcto para cada figura y hacia el programa
+este mas ordenado y mantenga una estructura decente.

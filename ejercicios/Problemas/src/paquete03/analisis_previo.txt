@@ -1,0 +1,7 @@
+El usuario debe elegir una opcion de la cual figura desea calcular dependiendo a
+su eleccion, segun la opción que escoga, se ejecutara un procedimiento distinto
+para realizarel calculo correspondiente, cada procedimiento solicitara los datos
+necesarios al usuario y realizara la operacion que fue dado en el problema y en
+este ejercicio se utilizo condiconales que ya conocemos y procedimientos sin 
+retorno esperando mostrar en pantalla la opcion que el usuario eliga.
+ 
