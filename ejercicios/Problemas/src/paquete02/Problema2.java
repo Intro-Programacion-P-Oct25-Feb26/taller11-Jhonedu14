@@ -29,7 +29,7 @@ public class Problema2 {
         String[] viviendas = new String[10];
 
         for (int i = 0; i < viviendas.length; i++) {
-            System.out.print("Ingrese el nombre de la vivienda1");
+            System.out.printf("Ingrese el nombre de la vivienda\n");
             viviendas[i] = entrada.nextLine();
         }
 
@@ -52,14 +52,25 @@ public class Problema2 {
 
     public static double[] ConsumoAnual(double[][] consumos) {
 
-        double[] totales = new double[consumos.length];
+        double[] total = new double[consumos.length];
 
         for (int i = 0; i < consumos.length; i++) {
             double suma = 0;
             for (int j = 0; j < consumos[i].length; j++) {
                 suma = suma + consumos[i][j];
             }
-            totales[i] = suma;
+            total[i] = suma;
         }
 
-     
+        return total;
+    }
+
+    public static void mostrarReporte(String[] viviendas, double[] totales) {
+
+        String reporte = "Reporte Anual del consumo de viviendas\n";
+        for (int i = 0; i < viviendas.length; i++) {
+            reporte = reporte + viviendas[i] + ": " + totales[i];
+        }
+        System.out.printf(reporte);
+    }
+}
