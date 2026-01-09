@@ -1,0 +1,5 @@
+Tuve problemas al principio para gestionar arreglos cuyo tamaño se determina 
+durante la ejecucion cuando se lleve a cabo este ejercicio,me equivoque al 
+confundir el tema procedimiento con la logica de la funcion, pero lo solucione
+separando de manera adecuada en pocas palabras siguiendo pasos los,lo bueno fue
+recorrer el arreglo y esto me ayudo a que se mostraran valor de 4 o 5 caracteres
