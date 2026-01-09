@@ -1,0 +1,5 @@
+Con este ejercicio, aprendi a dividir adecuadamente los calculos en distintas 
+funciones, utilizando primero el promedio y despuess la desviación aunque, al 
+principio no comprendia que la desviacion estandar dependia del valor del
+promedio, pero lo entendi cuando el promedio fue pasado como parametr y la para 
+mi lo mas importante  fue recorrer el arreglo y hacer bien las formulas,

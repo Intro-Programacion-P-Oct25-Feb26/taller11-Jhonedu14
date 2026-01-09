@@ -1,0 +1,6 @@
+El programa requiere un arreglo unidimensional de números enteros,que representa
+una serie de valores numericos, como resultado fundamental, el primero paso a 
+seguir es hallar la media aritmetica del arreglo, lo que implica sumar todos los
+valores y luego dividir ese resultado entre el número total de elementos, luego
+se tiene que calcular la desviación estándar a partir de la media aritmética y
+El resultado que va a mostrar en pantalla la media aritmetuca y la desviacion.
