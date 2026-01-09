@@ -3,5 +3,5 @@ ecuatorianas a traves del teclado, primero se le debe pedir al usuario que
 indique el numero de elementos que contendra el arreglo, despues los nombres de 
 las ciudades se introducen uno por uno y se guardan en un arreglo unidimensional
 la actividad fundamental consiste en recorrer el arreglo y examinar cuantos 
-caracteres tiene cada cadena, y mosrar solamente nombres que cumple la condicion
+caracteres tiene cada cadena,y mostrar solamente nombres que cumple la condicion
 
