@@ -1,0 +1,8 @@
+Para mi la parte mas importante o mas reltiva fue el recorrido correcto de las 
+filas y columnas de los arreglos bidimensionales, ya que con esto depende que la 
+suma se realice en la posición correcta, si no se usan bien los ciclos vamos a 
+tener una suma con resultados incorrecots y dar error en al momento de programar
+para eso se reviso varios ejercicios que tuvimos en el mismo link brindado.
+
+
+

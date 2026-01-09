@@ -1,0 +1,6 @@
+El proceso principal consiste  de este programa empieza en  recorrer ambos 
+arreglos y sumar los valores que se encuentran en la misma posicion como un 
+incio para este proceso se van utilizar estructuras repetitivas para la 
+operacion, el metodo que nos pide debe recibir son dos arreglos como parametros
+y devolver un nuevo arreglo con los resultados de la suma y el resultado a
+esperar seria un tipo matriz donde este la suma de los elementos de los arreglos
